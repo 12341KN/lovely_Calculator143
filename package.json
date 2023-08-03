@@ -1,7 +1,5 @@
 {
-  "engines": {
-    "node": ">=14.20.1"
-  },
+  
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
